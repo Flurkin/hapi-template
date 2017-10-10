@@ -1,0 +1,18 @@
+{
+  "name": "authproject",
+  "version": "2.0.0",
+  "description": "A simple webserver built with Hapi, Hapi-auth-cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Moore",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.0.3",
+    "hapi": "^10.4.0",
+    "hapi-auth-cookie": "^3.1.0",
+    "joi": "^6.9.0",
+    "vision": "^3.0.0"
+  }
+}
